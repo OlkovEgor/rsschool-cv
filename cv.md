@@ -19,8 +19,8 @@ My strengths are troubleshooting, accuracy and quality
 * Git
 * VS Code
 * Google Chrome
-## Code exemple
 
+## Code exemple
 
 ```
 function multiply(a, b){
