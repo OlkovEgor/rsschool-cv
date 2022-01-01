@@ -34,3 +34,8 @@ __The Ural Federal University. 2012–2016гг.__
 
 _Bachelor. Power engineering and electrical engineering._
 
+## Langauge
+***
+Russian - native speaker.
+
+English - beginner.
